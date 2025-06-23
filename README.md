@@ -4,11 +4,11 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif"/>
 </p>
 
-## 👨‍💻 About Me
+## ��‍💻 About Me
 
-Hi, I’m **Anant Rai** — a passionate **Software Developer** 💻 and lifelong **Tech Explorer** 🤖 dedicated to crafting intelligent systems that connect software, hardware, and data. With a creative mindset and hands-on approach, I engineer sleek full-stack applications 🌐 and scalable Android solutions 📱 powered by **MERN Stack** and **Kotlin**, backed by strong foundations in **C, C++, Python, Java, and JavaScript**.
+Hi, I'm **Anant Rai** — a passionate **Software Developer** 💻 and lifelong **Tech Explorer** 🤖 dedicated to crafting intelligent systems that connect software, hardware, and data. With a creative mindset and hands-on approach, I engineer sleek full-stack applications 🌐 and scalable Android solutions 📱 powered by **MERN Stack** and **Kotlin**, backed by strong foundations in **C, C++, Python, Java, and JavaScript**.
 
-Beyond the code, I’m exploring the fusion of **Robotics**, **Automation**, and **AI/ML** to build systems that not only respond but adapt and evolve. I'm deeply invested in building impactful solutions that address challenges in **education**, **healthcare**, and **public systems**.
+Beyond the code, I'm exploring the fusion of **Robotics**, **Automation**, and **AI/ML** to build systems that not only respond but adapt and evolve. I'm deeply invested in building impactful solutions that address challenges in **education**, **healthcare**, and **public systems**.
 
 > 🌟 _"Building tech that helps people live better, smarter, and faster."_
 
@@ -80,7 +80,7 @@ Beyond the code, I’m exploring the fusion of **Robotics**, **Automation**, and
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200"/>
 </p>
 
-✨ I’ve built these to test tech, solve problems, and make learning fun:
+✨ I've built these to test tech, solve problems, and make learning fun:
 
 ### 🌦️ **Weather App**  
 🔗 [Live Demo](https://anant-4-code.github.io/Weather_app/) | [GitHub](https://github.com/Anant-4-code/Weather_app)  
@@ -106,21 +106,21 @@ Beyond the code, I’m exploring the fusion of **Robotics**, **Automation**, and
 ## 🏆 Achievements
 
 - 🥇 1st Prize – Research Paper on OR in Healthcare (2025)
-- 📱 Developed 6+ Live Web & Android Applications
-- 🎓 Created education tools adopted by peers
-- 🌐 Active GitHub contributor and open-source learner
+- ✅ Developed 6+ Live Web & Android Applications
+- ✅ Created education tools adopted by peers
+- ✅ Active GitHub contributor and open-source learner
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anant-4-code&show_icons=true&theme=radical&rank_icon=github&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anant-4-code&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anant-4-code&layout=compact&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Anant-4-code&show_icons=true&theme=radical&rank_icon=github&hide_border=true" height="190"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anant-4-code&theme=radical&hide_border=true" height="190"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anant-4-code&layout=compact&theme=radical&hide_border=true" height="190"/>
 </p>
 
-### 🟩 GitHub Contribution Graph
+## 📈 GitHub Contribution Graph
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anant-4-code&theme=tokyonight" width="95%"/>
@@ -131,7 +131,6 @@ Beyond the code, I’m exploring the fusion of **Robotics**, **Automation**, and
 ## 📬 Let's Connect
 
 - 📧 Email: anantrai0809@gmail.com  
-- 🔗 GitHub: [Anant-4-code](https://github.com/Anant-4-code)  
 - 💼 LinkedIn: [Anant Rai](https://www.linkedin.com/in/anant-rai-a79565312)
 
-> “Tech that helps others is the tech that matters.” – *Anant Rai* ✨
+> "Tech that helps others is the tech that matters."✨
