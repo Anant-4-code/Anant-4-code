@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Anant Rai
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding gif"/>
 </p>
 
 ## ��‍💻 About Me
@@ -17,7 +17,7 @@ Beyond the code, I'm exploring the fusion of **Robotics**, **Automation**, and *
 ## 📌 Professional Summary
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="Summary animation"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="350" alt="Summary animation"/>
 </p>
 
 🚀 Full Stack Developer and Android Engineer with experience across MERN Stack, Kotlin, Firebase, and cloud-integrated systems.  
@@ -77,7 +77,7 @@ Beyond the code, I'm exploring the fusion of **Robotics**, **Automation**, and *
 ## 🎯 Projects & Highlights
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="350"/>
 </p>
 
 ✨ I've built these to test tech, solve problems, and make learning fun:
@@ -123,7 +123,7 @@ Beyond the code, I'm exploring the fusion of **Robotics**, **Automation**, and *
 ## 📈 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anant-4-code&theme=tokyonight" width="95%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anant-4-code&theme=tokyonight" width="100%"/>
 </p>
 
 ---
