@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding gif"/>
 </p>
 
-## ��‍💻 About Me
+## 💻 About Me
 
 Hi, I'm **Anant Rai** — a passionate **Software Developer** 💻 and lifelong **Tech Explorer** 🤖 dedicated to crafting intelligent systems that connect software, hardware, and data. With a creative mindset and hands-on approach, I engineer sleek full-stack applications 🌐 and scalable Android solutions 📱 powered by **MERN Stack** and **Kotlin**, backed by strong foundations in **C, C++, Python, Java, and JavaScript**.
 
