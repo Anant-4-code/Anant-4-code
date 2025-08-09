@@ -115,9 +115,8 @@ Beyond the code, I'm exploring the fusion of **Robotics**, **Automation**, and *
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anant-4-code&show_icons=true&theme=radical&rank_icon=github&hide_border=true" height="100%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anant-4-code&theme=radical&hide_border=true" height="100%"/>
-  <hr>
+  <img src="https://github-readme-stats.vercel.app/api?username=Anant-4-code&show_icons=true&theme=radical&rank_icon=github&hide_border=true" width="50%" height="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anant-4-code&theme=radical&hide_border=true" width="50%" height="100%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anant-4-code&layout=compact&theme=radical&hide_border=true" height="100%"/>
 </p>
 
