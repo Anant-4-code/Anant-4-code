@@ -10,7 +10,7 @@ Hi, I'm **Anant Rai** — a passionate **Software Developer** 💻 and lifelong 
 
 Beyond the code, I'm exploring the fusion of **Robotics**, **Automation**, and **AI/ML** to build systems that not only respond but adapt and evolve. I'm deeply invested in building impactful solutions that address challenges in **education**, **healthcare**, and **public systems**.
 
-> 🌟 _"Building tech that helps people live better, smarter, and faster."_
+> 🌟 printf("First solve the Promblem. Then write the Code \n");
 
 ---
 
