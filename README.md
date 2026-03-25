@@ -1,12 +1,6 @@
 # 👋 Hi there, I'm Anant Rai
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding gif"/>
-</p>
-
-## 💻 About Me
-
-Hi, I'm **Anant Rai** — a passionate **Software Developer** 💻 and lifelong **Tech Explorer** 🤖 dedicated to crafting intelligent systems that connect software, hardware, and data. With a creative mindset and hands-on approach, I engineer sleek full-stack applications 🌐 and scalable Android solutions 📱 powered by **MERN Stack** and **Kotlin**, backed by strong foundations in **C, C++, Python, Java, and JavaScript**.
+I'm **Anant Rai**, a **Software Developer** and lifelong **Tech Explorer** dedicated to crafting intelligent systems that connect software, hardware, and data. With a creative mindset and hands-on approach, I engineer sleek full-stack applications and scalable Android solutions powered by **MERN Stack** and **Kotlin**, backed by strong foundations in **C, C++, Python, Java, and JavaScript**.
 
 Beyond the code, I'm exploring the fusion of **Robotics**, **Automation**, and **AI/ML** to build systems that not only respond but adapt and evolve. I'm deeply invested in building impactful solutions that address challenges in **education**, **healthcare**, and **public systems**.
 
@@ -14,11 +8,9 @@ Beyond the code, I'm exploring the fusion of **Robotics**, **Automation**, and *
 
 ---
 
-## 📌 Professional Summary
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="350" alt="Summary animation"/>
-</p>
+## 📌 Professional Summary <div align="center">
+<img src="https://komarev.com/ghpvc/?username=Anant-4-you&&style=flat-square" align="center" />
+</div> 
 
 🚀 Full Stack Developer and Android Engineer with experience across MERN Stack, Kotlin, Firebase, and cloud-integrated systems.  
 🧠 Strong background in algorithmic thinking, clean UI design, and back-end optimization.  
