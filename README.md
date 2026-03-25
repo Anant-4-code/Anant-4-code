@@ -7,10 +7,9 @@ Beyond the code, I'm exploring the fusion of **Robotics**, **Automation**, and *
 > 🌟 printf("First solve the Promblem. Then write the Code \n");
 
 ---
+## 📌 Professional Summary 
 
-## 📌 Professional Summary <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Anant-4-you&&style=flat-square" align="center" />
-</div> 
+[![](https://visitcountpro.netlify.app/api?id=Anant-4-code&pretty=true)](https://visitcount.itsvg.in)
 
 🚀 Full Stack Developer and Android Engineer with experience across MERN Stack, Kotlin, Firebase, and cloud-integrated systems.  
 🧠 Strong background in algorithmic thinking, clean UI design, and back-end optimization.  
