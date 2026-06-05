@@ -64,36 +64,6 @@ Beyond the code, I'm exploring the fusion of **Robotics**, **Automation**, and *
 🛠️ Turning futuristic ideas into functional prototypes
 
 ---
-
-## 🎯 Projects & Highlights
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="350"/>
-</p>
-
-✨ I've built these to test tech, solve problems, and make learning fun:
-
-### 🌦️ **Weather App**  
-🔗 [Live Demo](https://anant-4-code.github.io/Weather_app/) | [GitHub](https://github.com/Anant-4-code/Weather_app)  
-📡 Displays real-time weather using React and OpenWeatherMap API. Built for exploring data-fetching and API integration.
-
-### 🧠 **Memory Flip Game**  
-🔗 [Play](https://anant-4-code.github.io/Memory-flip/) | [GitHub](https://github.com/Anant-4-code/Memory-flip)  
-🧩 A memory game built with React Hooks (useState/useEffect), animations, and scoring logic.
-
-### ⌨️ **KeySprint Typing Game**  
-🔗 [GitHub](https://github.com/Anant-4-code/KeySprint)  
-⚡ HTML/JS speed typing tool to track accuracy and WPM — fun, clean, and beginner-friendly.
-
-### 📲 **Calcitron Converter (Android)**  
-🔗 [GitHub](https://github.com/Anant-4-code/Calcitron-Digital-ELE-Converter)  
-🔢 Kotlin-based Android app that converts between binary, decimal, octal, and hex — designed for electronics students.
-
-### 📝 **MERN Blog Platform**  
-🗂️ React + MongoDB-based CRUD blogging system with authentication, post management, and scalable design.
-
----
-
 ## 🏆 Achievements
 
 - 🥇 1st Prize – Research Paper on OR in Healthcare (2025)
