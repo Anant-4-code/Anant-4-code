@@ -38,7 +38,7 @@
 📍  location    :  Nashik, Maharashtra, India
 🎓  education   :  B.Sc. Computer Science @ ACBCS, SPPU  |  SGPA: 9.73 → 9.64
 💼  current     :  AI Ops & Automation Associate @ RPD Group
-                   Google Student Ambassador
+                   & Google Student Ambassador
 🔭  focus       :  Computer Vision  ·  LLMs  ·  RAG  ·  Full-Stack  ·  Automation
 🏆  research    :  2 Papers  ·  1 International Publication (IEJSE Vol.8 No.9, 2025)
 🚀  hackathons  :  5+ (ISRO · SunHacks UX Award · GHRhack · Google Cloud · Avishkar)
